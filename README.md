@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    docker-compose file for kimai
+    toitzi's docker-compose file for kimai
 </p>
 
 <p align="center">
